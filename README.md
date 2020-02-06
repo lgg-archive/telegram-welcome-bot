@@ -44,3 +44,9 @@ $ npm run start -- -p ~/bot -t 582659278:JsjjSHDNns-JjshJhann2nhJjans88kKSiw -u 
 ```
 
 Enjoy!
+
+## License
+
+* MIT
+* based on [telegram-welcome-bot](https://github.com/DaniGuardiola/telegram-welcome-bot) by [DaniGuardiola](https://github.com/DaniGuardiola)
+* updated by [lgg](https://github.com/lgg)
