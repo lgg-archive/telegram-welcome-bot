@@ -4,11 +4,11 @@
   "description": "Simple Telegram bot that sends a welcome message to new members of a group",
   "main": "main.js",
   "dependencies": {
-    "command-line-args": "^5.0.2",
+    "command-line-args": "^5.1.1",
     "markdown-escape": "^1.0.2",
-    "marked": "^0.5.2",
-    "mdv": "^1.1.0",
-    "node-persist": "^3.0.1",
+    "marked": "^0.8.0",
+    "mdv": "^1.2.1",
+    "node-persist": "^3.0.5",
     "node-telegram-bot-api": "^0.30.0"
   },
   "author": "Dani Guardiola",
