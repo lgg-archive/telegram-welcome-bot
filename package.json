@@ -9,6 +9,8 @@
     "marked": "^0.8.0",
     "mdv": "^1.2.1",
     "node-persist": "^3.0.5",
+    "minimist": ">=0.2.1",
+    "acorn": ">=5.7.4",
     "node-telegram-bot-api": "^0.30.0"
   },
   "author": "Dani Guardiola",
